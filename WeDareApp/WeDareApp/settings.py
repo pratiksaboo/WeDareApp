@@ -25,7 +25,7 @@ SECRET_KEY = 'j!3gpmco-eeh=+e1+7sqs3xdn6r6gud8y4-h7zu3+06x1^v68%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
